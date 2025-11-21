@@ -1,8 +1,19 @@
-﻿google-generativeai
-pdfplumber==0.7.5
-chromadb
-sentence-transformers
-streamlit
-pickle
-docx
+# Google Gemini SDK
+google-generativeai
 
+# PDF reading
+pdfplumber==0.7.5
+
+# Vector DB
+chromadb
+
+# Embeddings and transformer models
+sentence-transformers
+
+# Streamlit app
+streamlit
+
+# Word document handling (python-docx)
+python-docx
+
+# Pickle is built-in (no need to install)
