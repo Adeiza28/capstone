@@ -1,5 +1,4 @@
 import os
-import pypdf
 import streamlit as st
 from pypdf import PdfReader
 import docx
@@ -189,3 +188,4 @@ if st.session_state.history:
         st.markdown(f"**Q:** {entry['query']}")
         st.markdown(f"**A:** {entry['answer']}")
         st.markdown("---")
+
