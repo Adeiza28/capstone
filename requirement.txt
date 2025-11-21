@@ -1,7 +1,8 @@
 ﻿google-generativeai
-pdfplumber
+pdfplumber==0.7.5
 chromadb
 sentence-transformers
 streamlit
 pickle
 docx
+
