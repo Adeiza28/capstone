@@ -3,6 +3,7 @@ google-generativeai
 
 # PDF reading
 pdfplumber==0.7.5
+pypdf
 
 # Vector DB
 chromadb
@@ -17,3 +18,4 @@ streamlit
 python-docx
 
 # Pickle is built-in (no need to install)
+
